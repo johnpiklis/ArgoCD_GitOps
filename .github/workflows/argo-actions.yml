@@ -1,5 +1,4 @@
- name: GitOps Pipeline with ArcgoCD
-
+name: GitOps Pipeline with ArcgoCD
 on:
     push:
         branches:
